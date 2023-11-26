@@ -1,8 +1,10 @@
-# Readme Generator
+# Example-name
+  
+ 
   
 ## Description
   
-This project is a nodejs application which takes in a users responses to typical readme questions and writes a readme file for the user.
+example description
   
 ## Table of Contents
   - [Features](#features)
@@ -15,28 +17,32 @@ This project is a nodejs application which takes in a users responses to typical
   
 ## Features
   
-N/A
+example features
   
 ## Installation
   
-Navigate to the directory in the command line and enter "npm install" to install necessary packages
+example instructions
   
 ## Usage
   
-In the repository directory, in the command line, ender "node index.js", and answer the questions that follow. Once finished your readme file will appear in the base directory.
+example demonstration
   
 ## Contributing
   
-N/A
+example contribution description
   
 ## Tests
   
-N/A
+example tests description
   
 ## Questions
   
 Visit my Github at https://github.com/philmaine75
-     
+  
+Contact me at philippedebiran@gmail.com
+  
+
+        
 ## License
         
 This project is licensed under the MIT License - see https://choosealicense.com/licenses/MIT/ page for more details.
